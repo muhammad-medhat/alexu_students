@@ -1,0 +1,8 @@
+
+#login_form input[type="text"], #login_form input[type="password"]
+/*{width:initial;margin:5px}*/
+{display:none}
+#nav_links{
+      margin-right: 349px;
+}
+#header{background-color:red}
